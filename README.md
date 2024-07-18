@@ -25,8 +25,6 @@ Interface
 ![Alt Text](https://github.com/VedantR3907/ComputerVision-UserInteractive-Games/blob/master/Display_Images/ghostbusters.png)
 
 
-https://github.com/VedantR3907/Virtual-Painting-with-hands-recognizition/blob/master/Display_Image.png
-
 ## Installation
 
 1. Clone the repository:
