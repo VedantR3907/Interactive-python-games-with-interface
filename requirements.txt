@@ -1,0 +1,7 @@
+pygame
+opencv_python
+face_recognition
+cvzone
+pyttsx3
+keyboard
+SpeechRecognition
