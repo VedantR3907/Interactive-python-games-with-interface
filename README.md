@@ -29,7 +29,7 @@ Interface
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/VedantR3907/Interactive-python-games-with-interface.git)
+   git clone https://github.com/VedantR3907/Interactive-python-games-with-interface.git
    ```
 
 2. Install requirements.txt
