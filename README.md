@@ -1,6 +1,6 @@
 # Interactive Python Games
 
-This project includes a collection of games that utilize User and computer to enhance the gaming experience.
+This project includes a collection of games that utilize User and computer to enhance the gaming experiences.
 
 ## Images
 
